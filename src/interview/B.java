@@ -9,7 +9,8 @@ public class inheritance {
 
 }
 
-public class B extends inheritance
+
+public class B  extends inheritance
 {
 	B()
 	{
@@ -24,5 +25,7 @@ public class B extends inheritance
 public static void main(String[] args) {
 	B ob= new B();
 }
+
+
 
 }

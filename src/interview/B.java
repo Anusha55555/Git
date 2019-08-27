@@ -1,16 +1,8 @@
 package interview;
 
-public class inheritance {
-	
-	inheritance()
-	{
-		System.out.println("parentclass");
-	}
-
-}
 
 
-public class B  extends inheritance
+public class B 
 {
 	B()
 	{

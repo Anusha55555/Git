@@ -16,7 +16,15 @@ public class B
 
 public static void main(String[] args) {
 	B ob= new B();
+	
+	ob.nkdlkjgkdlkgajdlgjawrlknhakernk();
 }
+
+void nkdlkjgkdlkgajdlgjawrlknhakernk() {
+	
+	System.out.println();
+}
+
 
 
 

@@ -22,7 +22,7 @@ public static void main(String[] args) {
 
 void nkdlkjgkdlkgajdlgjawrlknhakernk() {
 	
-	System.out.println();
+	System.out.println("anu");
 }
 
 
